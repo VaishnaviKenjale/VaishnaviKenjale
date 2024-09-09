@@ -2,7 +2,7 @@
 
 👀 I’m actively seeking opportunities to showcase my talent.
 
-🌱 I’m a recent graduate passionate about data analysis.
+🌱 I’m a recent graduate passionate about analyze data.
 
 💞️ I am enthusiastic about data and its potential.
 
