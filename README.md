@@ -1,8 +1,9 @@
 👋 Hi, I’m Vaishnavi Kenjale.
+
 👀 I’m actively seeking opportunities to showcase my talent.
 🌱 I’m a recent graduate passionate about data analysis.
 💞️ I am enthusiastic about data and its potential.
-📫 I recently completed a data analyst internship.
+📫 I recently completed a data analyst internship at KultureHire.
 🌟 Skills: MySQL, Excel, Pivot Tables, Excel formulas, Python, Java, and Power BI (learner).
 
 <!---
